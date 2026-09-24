@@ -26,7 +26,7 @@ AI/ML Engineer building LLM infrastructure, RAG systems, and multi-agent pipelin
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=FF9900)![Docker](https://img.shields.io/badge/docker-0db7ed?logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?logo=kubernetes&logoColor=white)![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)![Terraform](https://img.shields.io/badge/terraform-5835CC?logo=terraform&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)!![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?logo=langchain&logoColor=white)![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A)
 
 ## 📊 GitHub Stats
-![Stats](https://readme-stats-six-flame.vercel.app/api?username=alibehlooie&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://readme-stats-six-flame.vercel.app/api?username=alibehlooie&show_icons=true&theme=tokyonight&hide_border=true&v=2)
 ![Top Langs](https://readme-stats-six-flame.vercel.app/api/top-langs/?username=alibehlooie&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🏆 GitHub Trophies
