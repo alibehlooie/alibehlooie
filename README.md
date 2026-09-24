@@ -29,8 +29,3 @@ AI/ML Engineer building LLM infrastructure, RAG systems, and multi-agent pipelin
 ![Stats](https://readme-stats-six-flame.vercel.app/api?username=alibehlooie&show_icons=true&theme=tokyonight&hide_border=true&v=2)
 ![Top Langs](https://readme-stats-six-flame.vercel.app/api/top-langs/?username=alibehlooie&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=alibehlooie&theme=onedark&no-frame=true&row=1)
-
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
