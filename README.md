@@ -56,8 +56,8 @@ AI/ML Engineer building LLM infrastructure, RAG systems, and multi-agent pipelin
 ![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A)
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=alibehlooie&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibehlooie&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-alibehlooie.vercel.app/api?username=alibehlooie&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-alibehlooie.vercel.app/api/top-langs/?username=alibehlooie&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
